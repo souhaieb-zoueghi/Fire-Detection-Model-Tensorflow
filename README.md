@@ -9,3 +9,6 @@ This is a simple image classification project developed using Tensorflow and Ker
 
 ## 4. Predictions
 ![](images/predictions.jpg)
+
+## 5. Confusion Matrix
+![](images/confusion_matrix.jpg)
