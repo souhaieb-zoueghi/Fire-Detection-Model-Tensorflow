@@ -3,3 +3,9 @@ This is a simple image classification project developed using Tensorflow and Ker
 
 ## 2. Training
 ![](images/training.jpg)
+
+## 3. Accuracy Curve
+![](images/accuracy.jpg)
+
+## 4. Predictions
+![](images/predictions.jpg)
